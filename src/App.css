@@ -1,0 +1,31 @@
+body{
+    background-color: black;
+}
+
+.formulario{
+    width: 50%;
+    margin-left: 350px;
+}
+
+button{
+    margin-top: 20px;
+    background-color: rgb(28, 66, 201);
+    padding: 4px;
+    color: white;
+    width: 100%;
+    display: none;
+}
+
+.boton{
+    align-items: center;
+    align-self: center;
+    align-content: center;
+}
+
+.show{
+    display: block;
+}
+
+.null{
+    display: none;
+}
